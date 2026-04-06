@@ -1,20 +1,20 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3776AB,100:FFD43B&height=200&section=header&text=Python%20for%20Data%20Science&fontSize=40&fontColor=fff&fontAlignY=38&desc=From%20Zero%20to%20Data%20Scientist%20%E2%80%94%20One%20Lecture%20at%20a%20Time&descAlignY=58&descSize=16" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:A855F7&height=200&section=header&text=Python%20for%20AI%20Engineering&fontSize=40&fontColor=fff&fontAlignY=38&desc=From%20Zero%20to%20AI%20Engineer%20%E2%80%94%20One%20Lecture%20at%20a%20Time&descAlignY=58&descSize=16" />
 
 <br/>
 
 [![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org)
-[![NumPy](https://img.shields.io/badge/NumPy-Latest-013243?style=flat-square&logo=numpy&logoColor=white)](https://numpy.org)
-[![Pandas](https://img.shields.io/badge/Pandas-Latest-150458?style=flat-square&logo=pandas&logoColor=white)](https://pandas.pydata.org)
-[![Matplotlib](https://img.shields.io/badge/Matplotlib-Latest-11557C?style=flat-square&logo=python&logoColor=white)](https://matplotlib.org)
+[![PyTorch](https://img.shields.io/badge/PyTorch-Latest-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)](https://pytorch.org)
+[![HuggingFace](https://img.shields.io/badge/HuggingFace-Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co)
+[![LangChain](https://img.shields.io/badge/LangChain-Latest-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)](https://langchain.com)
 [![Colab](https://img.shields.io/badge/Google%20Colab-Notebooks-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)](https://colab.research.google.com)
 [![Status](https://img.shields.io/badge/Status-Active-22c55e?style=flat-square)]()
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen?style=flat-square)](CONTRIBUTING.md)
 
 <br/>
 
-> **A structured, hands-on curriculum to master Python for Data Science — built for beginners, designed for real-world impact.**
+> **A structured, hands-on curriculum to master AI Engineering — built for beginners, designed for real-world impact.**
 
 </div>
 
@@ -22,24 +22,25 @@
 
 ## 📌 About This Repository
 
-This repository is a **structured roadmap to learn Python for Data Science**.
-It covers everything from writing your first line of Python to working with real-world datasets — through **lecture-wise notebooks** with hands-on examples and coding practice.
+This repository is a **structured roadmap to become an AI Engineer**.
+It covers everything from writing your first line of Python to building and deploying production-ready AI systems — through **lecture-wise notebooks** with hands-on examples and coding practice.
 
 **Who is this for?**
 - 🙋 Absolute beginners with zero programming experience
-- 🔁 Developers transitioning into Data Science
-- 📊 Anyone looking to build a solid Python foundation for AI/ML
+- 🔁 Developers transitioning into AI Engineering
+- 🤖 Anyone looking to build, fine-tune, and deploy real-world AI systems
 
 ---
 
 ## 🎯 What You'll Learn
 
-- ✨ Python Fundamentals
-- ✨ Control Flow & Logic Building
-- ✨ Data Structures
-- ✨ Object-Oriented Programming
-- ✨ NumPy & Pandas
-- ✨ Data Visualization
+- ✨ Python Fundamentals for AI
+- ✨ Mathematics for AI (Linear Algebra, Calculus, Probability)
+- ✨ Machine Learning Foundations
+- ✨ Deep Learning & Neural Networks
+- ✨ Large Language Models (LLMs) & Prompt Engineering
+- ✨ LangChain, RAG & AI Agents
+- ✨ Model Deployment & MLOps
 
 ---
 
@@ -123,7 +124,7 @@ It covers everything from writing your first line of Python to working with real
 ---
 
 <details>
-<summary><h3>📘 Lecture 3 &nbsp;—&nbsp;  &nbsp; <code>🔜 Coming Soon</code></h3></summary>
+<summary><h3>📘 Lecture 3 &nbsp;—&nbsp; &nbsp; <code>🔜 Coming Soon</code></h3></summary>
 
 <br/>
 
@@ -139,9 +140,11 @@ It covers everything from writing your first line of Python to working with real
 |------|---------|
 | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) | Core programming language |
 | ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white) | Numerical computing & arrays |
-| ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white) | Data manipulation & analysis |
-| ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square&logo=python&logoColor=white) | Plotting & visualization |
-| ![Seaborn](https://img.shields.io/badge/-Seaborn-4EABE6?style=flat-square&logo=python&logoColor=white) | Statistical data visualization |
+| ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) | Deep learning & neural networks |
+| ![HuggingFace](https://img.shields.io/badge/-HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black) | Pretrained models & transformers |
+| ![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white) | LLM apps, RAG & AI agents |
+| ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) | Serving AI models via APIs |
+| ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) | Containerization & deployment |
 | ![Colab](https://img.shields.io/badge/-Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white) | Cloud notebooks (no setup needed) |
 
 ---
@@ -152,7 +155,7 @@ It covers everything from writing your first line of Python to working with real
 |---------|-------|--------|----------|
 | Lecture 1 | Python Basics | ✅ Completed | [Open ↗](https://colab.research.google.com/drive/1FWDPMLYXKqqPOrnYR6iq7aY0GRTrCV1d) |
 | Lecture 2 | Operators, Logic & Modules | ✅ Completed | [Open ↗](https://colab.research.google.com/drive/13t9BS1RXsasbH_hNnXFMVwUUXNPTwQkb?usp=sharing) |
-| Lecture 3 |  —  | 🔜 Coming Soon | — |
+| Lecture 3 | — | 🔜 Coming Soon | — |
 
 ---
 
@@ -160,9 +163,10 @@ It covers everything from writing your first line of Python to working with real
 
 By the end of this course, you will be able to:
 
-- 📊 Perform end-to-end **Data Analysis** on real datasets
-- 🤖 Build and evaluate basic **Machine Learning** models
-- 🧠 Understand the foundations needed for **AI Development**
+- 🤖 Build and fine-tune **Large Language Models (LLMs)**
+- 🧠 Design **AI Agents** and **RAG pipelines** from scratch
+- 🚀 **Deploy and scale** AI systems in production environments
+- ⚙️ Understand **MLOps** workflows for real-world AI engineering
 
 ---
 
@@ -192,7 +196,7 @@ If this repository helped you, consider giving it a **star ⭐** — it keeps th
   <tr>
     <td align="center">
       <b>Akanshu Jamwal</b><br/>
-      💡 Flutter Developer &nbsp;|&nbsp; 📊 Data Science Learner &nbsp;|&nbsp; 🚀 Builder
+      💡 Flutter Developer &nbsp;|&nbsp; 🤖 AI Engineering Learner &nbsp;|&nbsp; 🚀 Builder
     </td>
   </tr>
 </table>
@@ -201,16 +205,17 @@ If this repository helped you, consider giving it a **star ⭐** — it keeps th
 
 ## 🔥 Future Additions
 
-- 📂 Real-world Data Science projects
-- 🧠 Machine Learning model implementations
-- 📊 Curated open-source datasets
+- 🤖 End-to-end LLM fine-tuning projects
+- 🧠 AI Agent & multi-agent system implementations
+- 🔍 RAG (Retrieval-Augmented Generation) pipelines
+- 🚀 Model deployment & MLOps workflows
 - 🌐 Portfolio integration guide
 
 ---
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD43B,100:3776AB&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:A855F7,100:6366F1&height=120&section=footer"/>
 
 **🚀 Keep Learning. Keep Building.**
 
