@@ -122,9 +122,60 @@ It covers everything from writing your first line of Python to building and depl
 </details>
 
 ---
-
 <details>
-<summary><h3>📘 Lecture 3 &nbsp;—&nbsp; &nbsp; <code>🔜 Coming Soon</code></h3></summary>
+<summary><h3>📗 Lecture 3 &nbsp;—&nbsp; Loops, Control Statements & Strings &nbsp; <code>✅ Completed</code></h3></summary>
+<br/>
+
+> Covers loop constructs, flow control inside loops, and Python's versatile string operations.
+
+**🔁 Loops**
+| Concept | Description |
+|---------|-------------|
+| `for` loop | Iterate over a range or sequence |
+| Nested Loops | Loops inside loops for 2D patterns |
+| 🎯 Problem 1 | Sequence sum: `1/1! + 2/2! + 3/3! + ...` |
+| 🎯 Problem 2 | Pair printing: `11 12 13 ... 44` using nested loops |
+| 🎯 Problem 3 | Star & number triangle patterns (ascending & descending) |
+| 🎯 Problem 4 | Palindrome number pattern: `1 / 121 / 12321 / ...` |
+
+**⏭️ Control Statements**
+| Statement | Description |
+|-----------|-------------|
+| `break` | Immediately exits the loop |
+| `continue` | Skips current iteration, moves to next |
+| `pass` | Placeholder — does nothing, avoids syntax error |
+| 🎯 Mini Project | **Prime Numbers** — find all primes in a given range using `break` |
+
+**🔤 Strings**
+| Concept | Description |
+|---------|-------------|
+| Creation | Single, double, and triple-quoted strings |
+| Indexing / Negative Indexing | Access characters by position (`s[0]`, `s[-1]`) |
+| Slicing | Extract substrings (`s[0:4]`, `s[::2]`) |
+| Edit & Delete | Strings are immutable — reassign or `del` |
+| Operations | Concatenation `+`, repetition `*`, membership `in` |
+
+**🛠️ Common String Functions**
+| Function(s) | Purpose |
+|-------------|---------|
+| `capitalize / title / upper / lower / swapcase` | Case transformations |
+| `count / find / index` | Search & count substrings |
+| `startswith / endswith` | Check string boundaries |
+| `format()` | String interpolation with placeholders |
+| `isalnum / isalpha / isdigit / isidentifier` | Type-check string content |
+| `split() / join()` | Convert between strings and lists |
+| `replace()` | Substitute substrings |
+| `strip / lstrip / rstrip` | Remove leading/trailing whitespace |
+
+<br/>
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ebHjUro8aJ3unLezoAr9Xv1P8uN8aXp9?usp=sharing)
+
+</details>
+
+---
+<details>
+<summary><h3>📘 Lecture 4 &nbsp;—&nbsp; &nbsp; <code>🔜 Coming Soon</code></h3></summary>
 
 <br/>
 
@@ -155,7 +206,8 @@ It covers everything from writing your first line of Python to building and depl
 |---------|-------|--------|----------|
 | Lecture 1 | Python Basics | ✅ Completed | [Open ↗](https://colab.research.google.com/drive/1FWDPMLYXKqqPOrnYR6iq7aY0GRTrCV1d) |
 | Lecture 2 | Operators, Logic & Modules | ✅ Completed | [Open ↗](https://colab.research.google.com/drive/13t9BS1RXsasbH_hNnXFMVwUUXNPTwQkb?usp=sharing) |
-| Lecture 3 | — | 🔜 Coming Soon | — |
+| Lecture 3 | Loops, Control Statements & Strings | ✅ Completed | [Open ↗](https://colab.research.google.com/drive/1ebHjUro8aJ3unLezoAr9Xv1P8uN8aXp9?usp=sharing) |
+| Lecture 4 | — | 🔜 Coming Soon | — |
 
 ---
 
