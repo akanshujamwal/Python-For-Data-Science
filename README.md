@@ -175,7 +175,107 @@ It covers everything from writing your first line of Python to building and depl
 
 ---
 <details>
-<summary><h3>📘 Lecture 4 &nbsp;—&nbsp; &nbsp; <code>🔜 Coming Soon</code></h3></summary>
+<summary><h3>📗 Lecture 4 &nbsp;—&nbsp; Advanced Loops, Patterns & Strings Deep Dive &nbsp; <code>✅ Completed</code></h3></summary>
+
+<br/>
+
+> Covers real-world loop problems, pattern building, loop control logic, and deep string manipulation with practical programs.
+
+**🔁 Advanced Loop Problems**
+| Concept | Description |
+|---------|-------------|
+| Population Growth | Reverse calculation of population over years using decay logic |
+| 🎯 Problem 1 | Town population decreasing yearly (`curr_pop / 1.1`) |
+| 🎯 Problem 2 | Sequence sum: `1/1! + 2/2! + ... + n/n!` |
+| 🎯 Problem 3 | Unique pair printing using nested loops |
+| 🎯 Problem 4 | Factorial-based computations inside loops |
+
+---
+
+**🔄 Nested Loops & Patterns**
+| Pattern | Description |
+|--------|-------------|
+| Star Pattern | Increasing triangle using `*` |
+| Reverse Pattern | Decreasing star pattern |
+| Number Pattern | `1 → 121 → 12321` palindrome triangle |
+| 🎯 Practice | Build custom pyramid & inverted structures |
+
+---
+
+**⏭️ Loop Control Statements**
+| Statement | Description |
+|-----------|-------------|
+| `break` | Stops loop execution immediately |
+| `continue` | Skips current iteration |
+| `pass` | Placeholder for empty blocks |
+
+**🎯 Mini Project**
+- Print **Prime Numbers** in a given range using loop + `break`
+
+---
+
+**🔤 Strings Deep Dive**
+| Concept | Description |
+|---------|-------------|
+| Nature | Strings are sequences of Unicode characters |
+| Creation | `' '`, `" "`, `''' '''`, `str()` |
+| Indexing | Positive & negative indexing |
+| Slicing | `s[start:end:step]`, reverse `[::-1]` |
+| Immutability | Cannot modify directly |
+| Deletion | `del` keyword |
+
+---
+
+**⚙️ String Operations**
+| Type | Example |
+|------|--------|
+| Concatenation | `'delhi' + ' mumbai'` |
+| Repetition | `'hi'*5` |
+| Comparison | `'mumbai' > 'pune'` |
+| Membership | `'D' in 'delhi'` |
+| Looping | Iterate character by character |
+
+---
+
+**🛠️ Built-in String Functions**
+| Function | Purpose |
+|----------|--------|
+| `len`, `max`, `min`, `sorted` | Basic utilities |
+| `upper`, `lower`, `swapcase` | Case conversions |
+| `count`, `find`, `index` | Searching |
+| `startswith`, `endswith` | Prefix/Suffix check |
+| `format()` | String formatting |
+| `isalnum`, `isalpha`, `isdigit` | Validation |
+| `split`, `join` | Conversion |
+| `replace` | Replace substring |
+| `strip` | Remove spaces |
+
+---
+
+**💡 Practice Programs**
+| Program | Description |
+|--------|-------------|
+| Length without `len()` | Count characters manually |
+| Extract username | From email using slicing |
+| Character frequency | Count occurrences |
+| Remove character | Filter string |
+| Palindrome check | Compare symmetric chars |
+| Word count | Without `split()` |
+| Title case | Without `.title()` |
+| Integer → String | Manual conversion logic |
+
+---
+
+<br/>
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/)
+
+</details>
+
+---
+
+<details>
+<summary><h3>📘 Lecture 5 &nbsp;—&nbsp; &nbsp; <code>🔜 Coming Soon</code></h3></summary>
 
 <br/>
 
@@ -207,7 +307,8 @@ It covers everything from writing your first line of Python to building and depl
 | Lecture 1 | Python Basics | ✅ Completed | [Open ↗](https://colab.research.google.com/drive/1FWDPMLYXKqqPOrnYR6iq7aY0GRTrCV1d) |
 | Lecture 2 | Operators, Logic & Modules | ✅ Completed | [Open ↗](https://colab.research.google.com/drive/13t9BS1RXsasbH_hNnXFMVwUUXNPTwQkb?usp=sharing) |
 | Lecture 3 | Loops, Control Statements & Strings | ✅ Completed | [Open ↗](https://colab.research.google.com/drive/1ebHjUro8aJ3unLezoAr9Xv1P8uN8aXp9?usp=sharing) |
-| Lecture 4 | — | 🔜 Coming Soon | — |
+| Lecture 4 | Advanced Loops, Patterns & Strings Deep Dive | ⚙️ Working | [Open ↗](https://colab.research.google.com/drive/1w-daQleHwyfB4VhWiHrNCaiQe0-w-XJQ?usp=sharing) |
+| Lecture 5 | — | 🔜 Coming Soon | — |
 
 ---
 
